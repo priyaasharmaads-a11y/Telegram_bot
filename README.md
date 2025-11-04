@@ -63,10 +63,6 @@ Idea or information generator
 
 
 
-🎥 Demo
-
-▶ Watch the demo
-
 🏷️ Tags
 
 #n8n #telegram #chatbot #AI #automation #openrouter
