@@ -1,6 +1,8 @@
 
 🤖 Telegram AI Chatbot (Built with n8n)
 
+https://go.screenpal.com/watch/cTXioRnFzAX
+
 This project demonstrates an AI-powered Telegram chatbot created entirely using n8n, an open-source workflow automation tool. The bot connects with OpenRouter API to process user messages and reply intelligently in real time — without writing complex code.
 
 🚀 Features
