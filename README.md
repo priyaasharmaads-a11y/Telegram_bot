@@ -1,5 +1,7 @@
 
 🤖 Telegram AI Chatbot (Built with n8n)
+<img width="1840" height="560" alt="Screenshot 2025-11-05 113009" src="https://github.com/user-attachments/assets/2d6de5d5-0ca9-479b-a3ff-f2d97798e635" />
+
 
 https://go.screenpal.com/watch/cTXioRnFzAX
 
